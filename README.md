@@ -3,4 +3,4 @@
 #### [Learn More](https://github.com/xlpmyxhdr/Launcher-iOS/wiki/English-Tutorial)
 
 ---
-🌐[简体中文](https://github.com/xlpmyxhdr/Launcher-iOS/blob/main/README_CN.md) | [English](https://github.com/xlpmyxhdr/Launcher-iOS/blob/main/README_CN.md)
+🌐 [简体中文](https://github.com/xlpmyxhdr/Launcher-iOS/blob/main/README_CN.md) | [English](https://github.com/xlpmyxhdr/Launcher-iOS/blob/main/README_CN.md)
