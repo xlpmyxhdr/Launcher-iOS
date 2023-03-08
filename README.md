@@ -2,7 +2,7 @@
 
 ### An in-game download resource project for an anime game
 
-##### Game Version：3.5.0
+#### Game Version：3.5.0
 
 #### [Click To Download](https://anonfiles.com/5884Oac2z8/yuanshen_gc_3_5_0_ipa) | [Learn More](https://github.com/xlpmyxhdr/Launcher-iOS/wiki/English-Tutorial)
 
