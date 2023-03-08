@@ -1,6 +1,6 @@
 ## Lancher-iOS
 
-### An in-game download resource project for an anime game
+### An in-game download resource project for a certain anime game
 
 #### Game Version：3.5.0
 
